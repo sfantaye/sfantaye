@@ -64,39 +64,10 @@
 
 ---
 
-<h3 align="center">
-  My GitHub Journey
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" alt="High-Speed Train" width="35" height="35" />
-</h3>
 
-<!-- GitHub Stats Section -->
-<div align="center">
-  <!-- Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=sfantaye&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10&border_color=3776AB&title_color=FFD43B&icon_color=FFD43B&text_color=ffffff" alt="Sintayehu's GitHub Stats"/>
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfantaye&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&border_color=3776AB&title_color=FFD43B&text_color=ffffff&langs_count=8&hide=jupyter%20notebook" alt="Sintayehu's Top Languages"/>
-    <!-- Add &hide=html,css,javascript if Python is overwhelmingly dominant and you want to emphasize that -->
-  </a>
-</div>
 
-<div align="center" style="margin-top: 10px;">
-  <!-- Contribution Streak -->
-  <a href="https://git.io/streak-stats" title="GitHub Streak">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sfantaye&theme=tokyonight&hide_border=true&border_radius=10&border=3776AB&stroke=FFFFFF&ring=FFD43B&fire=FFD43B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD43B&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
-  </a>
-</div>
 
-<!-- WakaTime Stats (Optional - if you use WakaTime) -->
-<!--
-<div align="center" style="margin-top: 10px;">
-  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" />
-  </a>
-</div>
--->
+
 
 <!-- GitHub Contribution Graph -->
 <div align="center" style="margin-top: 20px;">
