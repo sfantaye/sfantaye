@@ -5,7 +5,7 @@
 
   <!-- Typing SVG Introduction -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3776AB¢er=true&width=450&lines=Hi+there%2C+I'm+Sintayehu+!;Passionate+Python+Developer+%F0%9F%90%8D" alt="Typing SVG - Hi there, I'm Sintayehu Fantaye!; Passionate Python Developer 🐍" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3776AB¢er=true&width=450&lines=Hi+there%2C+I'm+Sintayehu!;Passionate+Python+Developer+%F0%9F%90%8D" alt="Typing SVG - Hi there, I'm Sintayehu Fantaye!; Passionate Python Developer 🐍" />
   </h1>
 
   <!-- Short Bio / Tagline -->
