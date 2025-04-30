@@ -15,7 +15,7 @@
 
   <!-- Social/Contact Links - Using Python Blue as hover/focus indicator (conceptual) -->
   <p>
-    <a href="mailto:YOUR_EMAIL@example.com">
+    <a href="mailto:santafantaye@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
     </a>
      
@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
      
-    <a href="sintayehu.dev" target="_blank">
+    <a href="https://www.sintayehu.dev" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-3776AB?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="My Portfolio">
     </a> 
   </p>
