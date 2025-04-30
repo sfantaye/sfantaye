@@ -64,16 +64,6 @@
 
 ---
 
-
-
-
-
-
-<!-- GitHub Contribution Graph -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://ghchart.rshah.org/3776AB/sfantaye" alt="sfantaye's Contribution Graph" width="85%"/>
-</div>
-
 ---
 
 <p align="center">
