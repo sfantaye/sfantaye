@@ -23,10 +23,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
      
-    <!-- Add Portfolio Link if you have one -->
-    <!-- <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <a href="sintayehu.dev" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-3776AB?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="My Portfolio">
-    </a> -->
+    </a> 
   </p>
 
 </div>
@@ -34,7 +33,6 @@
 ---
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Toolbox.png" alt="Toolbox" width="35" height="35" />
   My Tech Stack & Tools
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" />
 </h3>
