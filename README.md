@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Header with Python Colors -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=200&section=header&text=Sintayehu%20Fantaye&fontSize=70&fontAlignY=35&desc=Software%20Architect%20%2F%2F%20Automation%20Specialist&descAlignY=60&descSize=20&fontColor=ff723b&animation=fadeIn" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=200&section=header&text=Sintayehu%20Fantaye&fontSize=70&fontAlignY=35&desc=Software%20Architect%20%2F%2F%20Automation%20Specialist&descAlignY=60&descSize=20&fontColor=723bff&animation=fadeIn" alt="Header">
 
   <!-- Typing Animation (The Class Definition) -->
   <a href="https://git.io/typing-svg">
