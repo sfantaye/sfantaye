@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=220&section=header&text=Sintayehu%20Fantaye&fontSize=80&fontAlignY=40&desc=Python%20Backend%20Architect%20%26%20Automation%20Specialist&descAlignY=65&descSize=25&fontColor=ffffff" alt="Header">
+ 
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3776AB&width=435&lines=class+Sintayehu(Developer)%3A;++++def+__init__(self)%3A;++++++++self.stack+%3D+%5B%22Python%22%2C+%22Django%22%5D;++++++++self.passion+%3D+%22Automation%22" alt="Typing SVG" />
