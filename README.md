@@ -1,72 +1,56 @@
 <div align="center">
+  
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+  
+  <h1 align="center">Hi, I'm Sintayehu Fantaye</h1>
 
-  <!-- Waving Hand Animation -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Waving hand">
+  <h3 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Python+Developer+%F0%9F%90%8D;Backend+Architect+%F0%9F%9A%80;Automation+Expert+%E2%9A%99%EF%B8%8F;Building+Scalable+Solutions..." alt="Typing SVG" />
+  </h3>
 
-  <!-- Typing SVG Introduction -->
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3776AB¢er=true&width=450&lines=Hi+there%2C+I'm+Sintayehu!;Passionate+Python+Developer+%F0%9F%90%8D" alt="Typing SVG - Hi there, I'm Sintayehu Fantaye!; Passionate Python Developer 🐍" />
-  </h1>
-
-  <!-- Short Bio / Tagline -->
   <p>
-    <i>Architecting robust backend systems & automating tasks with the power of Python.<br>Always exploring new ways to solve complex problems elegantly.</i>
-  </p>
-
-  <!-- Social/Contact Links - Using Python Blue as hover/focus indicator (conceptual) -->
-  <p>
-    <a href="mailto:santafantaye@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+     <a href="mailto:santafantaye@gmail.com">
+      <img src="https://img.shields.io/badge/Email-santafantaye%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=202020" />
     </a>
-     
-    <a href="https://www.linkedin.com/in/sintayehu-fantaye-8b5a43323/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/sintayehu-fantaye-8b5a43323/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" />
     </a>
-     
-    <a href="https://www.sintayehu.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-3776AB?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="My Portfolio">
-    </a> 
+    <a href="https://www.sintayehu.dev">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=firefox&logoColor=white&color=3776AB" />
+    </a>
   </p>
-
 </div>
 
 ---
 
-<h3 align="center">
-  My Tech Stack & Tools
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" />
-</h3>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>💻 Tech Stack</h3>
+      <br />
+      <!-- Backend -->
+      <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&perline=4" />
+      <br /><br />
+      <!-- Data -->
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis&perline=4" />
+      <br /><br />
+      <!-- Infra -->
+      <img src="https://skillicons.dev/icons?i=docker,aws,linux,git&perline=4" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📊 GitHub Activity</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ABSphreak&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=3776AB&text_color=999" />
+    </td>
+  </tr>
+</table>
 
-<!-- Skills Icons Section -->
-<p align="center">
-  <!-- Core -->
-  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/></a> 
-  <!-- Backend Frameworks (Select yours) -->
-  <a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django"/></a> 
-  <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"/></a> 
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI"/></a> 
-  <!-- Databases (Select yours) -->
-  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL"/></a> 
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/></a> 
-  <a href="https://redis.io" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis"/></a> 
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/></a> 
-  <!-- Frontend (If applicable) -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3"/></a> 
-  <!-- DevOps & Tools -->
-  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a> 
-  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a> 
-  <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS"/></a> 
-  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"/></a> 
-  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/></a> 
-</p>
+<div align="center">
+  <h3>🔥 Contribution Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABSphreak&theme=dark&background=00000000&hide_border=true&ring=3776AB&currStreakNum=3776AB&fire=3776AB" />
+</div>
 
----
-
----
-
-<p align="center">
-  <i>Constantly Learning & Building Cool Stuff!</i>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Shooting Star" width="25" height="25" />
-</p>
+<!-- Footer with snake animation placeholder (Requires Action to work fully, but image acts as divider) -->
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
